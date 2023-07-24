@@ -1,4 +1,7 @@
+Hey Everyone Myself yash , and i have made this amazing projext to search about the github users details !!
 
+
+Live Link : - https://gitsearchhubb.netlify.app/
 
 Api's which i have used are :-
 
