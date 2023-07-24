@@ -1,0 +1,42 @@
+export default [
+  {
+    "login": "Pragatimishra21",
+    "id": 87942959,
+    "node_id": "MDQ6VXNlcjg3OTQyOTU5",
+    "avatar_url": "https://avatars.githubusercontent.com/u/87942959?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Pragatimishra21",
+    "html_url": "https://github.com/Pragatimishra21",
+    "followers_url": "https://api.github.com/users/Pragatimishra21/followers",
+    "following_url": "https://api.github.com/users/Pragatimishra21/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Pragatimishra21/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Pragatimishra21/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Pragatimishra21/subscriptions",
+    "organizations_url": "https://api.github.com/users/Pragatimishra21/orgs",
+    "repos_url": "https://api.github.com/users/Pragatimishra21/repos",
+    "events_url": "https://api.github.com/users/Pragatimishra21/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Pragatimishra21/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  {
+    "login": "Laflamee999",
+    "id": 106419837,
+    "node_id": "U_kgDOBlfWfQ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/106419837?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Laflamee999",
+    "html_url": "https://github.com/Laflamee999",
+    "followers_url": "https://api.github.com/users/Laflamee999/followers",
+    "following_url": "https://api.github.com/users/Laflamee999/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Laflamee999/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Laflamee999/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Laflamee999/subscriptions",
+    "organizations_url": "https://api.github.com/users/Laflamee999/orgs",
+    "repos_url": "https://api.github.com/users/Laflamee999/repos",
+    "events_url": "https://api.github.com/users/Laflamee999/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Laflamee999/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+];
